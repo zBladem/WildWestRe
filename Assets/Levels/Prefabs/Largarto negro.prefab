@@ -173,6 +173,7 @@ MonoBehaviour:
   speed: 1
   direction: {x: 1, y: 0}
   maxTimer: 1
+  animator: {fileID: 0}
 --- !u!114 &6645247743434221284
 MonoBehaviour:
   m_ObjectHideFlags: 0
